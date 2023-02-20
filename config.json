@@ -1,0 +1,7 @@
+config = {
+"uri":"https://YOURDOMAIN.XYZ",
+"redirect_uri":"https://YOURDOMAIN.XYZ/login.html", ///example https://retardhub.net/spotify/login.html
+"client_id":"SPOTIFY API CLIENT TOKEN (CLIENT ID)",
+"slowdown_import": 100,
+"slowdown_export": 100
+};
